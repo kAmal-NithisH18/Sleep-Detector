@@ -33,18 +33,18 @@ The Drive Guard System is an intelligent safety application that utilizes a came
 
 ## Screenshots:
 
-*Driver Monitoring in Action*
+*Driver Monitoring in Action*<br>
 ![Driver Monitoring](/screenshots/cpack1.png)
 
-*Login System with Alarm sound*
+*Login System with Alarm sound*<br>
 ![Alert System](/screenshots/cpack2.png)
 
-*Interactive Dashboard - Choices List*
+*Interactive Dashboard - Choices List*<br>
 ![Choices List](/screenshots/cpack4.png)
 
-*Interactive Dashboard - FM Radio*
+*Interactive Dashboard - FM Radio*<br>
 ![FM Radio](/screenshots/cpack5.png)
-(/screenshots/cpack6.png)
+![FM Radio](/screenshots/cpack6.png)
 
 ## Contributions:
 
